@@ -1,5 +1,5 @@
 # 如何提交友链申请
-[编辑 link.json](https://github.com/icedtangerine7/blog-friendlink/edit/main/link.json)，在上一个网站的 `}` 后面加上逗号 `,`，然后按类似的格式添加你的友链信息：  
+folk 这个仓库，然后编辑 `link.json`，在上一个网站的 `}` 后面加上逗号 `,`，然后按类似的格式添加你的友链信息：  
 ```
 {
   "name": "网站的名称",
@@ -8,7 +8,7 @@
   "descr": "简介"
 }
 ```
-会自动进行 folk ，编辑好了之后创建一个 Pull request 等待合并  
+会自动进行 folk ，编辑好了之后创建一个 Pull request 等待合并，然后就可以删掉 folk 的仓库了  
 
 也可以直接在我的博客上留言，或者私信我添加友链！
 
