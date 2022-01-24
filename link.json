@@ -1,0 +1,116 @@
+[
+    {
+        "class_name": "小伙伴们",
+        "class_desc": "欢迎( •̀ ω •́ )y",
+        "link_list": [
+            {
+                "name": "孤舟のBlog",
+                "link": "https://www.rainy.pro",
+                "avatar": "https://cdn.jsdelivr.net/gh/chyanmo/blog-themes/myicon.jpg",
+                "descr": "19岁，是菜鸟"
+            },
+            {
+                "name": "萌！萝莉",
+                "link": "https: //loliloli.net",
+                "avatar": "https://img.loliloli.moe/images/2021/01/11/avatar.jpg",
+                "descr": "一个普通的小博客哦~"
+            },
+            {
+                "name": "Ajiang's Blog",
+                "link": "https://blog.ajiang.club",
+                "avatar": "https://blog.ajiang.club/logo.png",
+                "descr": "Ajiang的个人博客，记录美好生活！"
+            },
+            {
+                "name": "Kurococ Liu",
+                "link": "https://blog.lkurococ.top",
+                "avatar": "https://cdn.jsdelivr.net/gh/6isixi/imgcloud/avatar.jpg",
+                "descr": "被子外面很危险！"
+            },
+            {
+                "name": "竹春廿柒",
+                "link": "https://mojinxi.cn",
+                "avatar": "https://i.loli.net/2021/09/23/MWPmRc75UNYhZF1.jpg",
+                "descr": "日常碎碎念"
+            },
+            {
+                "name": "人民の芸術家的小屋",
+                "link": "https://wzyblog.com.cn",
+                "avatar": "https://wzyblog.com.cn/wp content/uploads/2021/10/wtx.jpg",
+                "descr": "三生有幸遇见你，纵使悲凉也是情"
+            },
+            {
+                "name": "喵二の小博客",
+                "link": "https://www.miaoer.xyz",
+                "avatar": "https://cdn.jsdelivr.net/gh/miaoermua/miaoermua.github.io@latest/logo/weblogo.png",
+                "descr": "喜欢分享一些东西 ୧(﹒ ᴗ﹒ )୨"
+            },
+            {
+                "name": "萌 (//∇//) 贴士",
+                "link": "https://moe.tips",
+                "avatar": "https://cdn.hyzfa.top/2020/10/20/33144fad212d1.jpg",
+                "descr": "愿你把酒执剑，归来仍是少年"
+            },
+            {
+                "name": "Kira Blog",
+                "link": "https://kira.cool",
+                "avatar": "https://img.kira.cool/images/2020/03/13/57L.png",
+                "descr": "大概会有你感兴趣的"
+            },
+            {
+                "name": "pai233の小窝",
+                "link": "https://blog.pai233.top",
+                "avatar": "https://blog.pai233.top/images/avatar.jpg",
+                "descr": "Write Down My Life."
+            },
+            {
+                "name": "Kindle deepのBlog",
+                "link": "https://blog.kindle deep.ml",
+                "avatar": "https://cdn.jsdelivr.net/gh/Kindle-deep/image@main/RoundCorner.png",
+                "descr": "Nothing is impossible to a willing heart."
+            },
+            {
+                "name": "Revincx",
+                "link": "https://blog.revincx.icu/",
+                "avatar": "https://cdn.jsdelivr.net/gh/Revincx/blog-assets@master/images/avatar.jpg",
+                "descr": "可爱就是正义~"
+            },
+            {
+                "name": "沐の空间",
+                "link": "https://muspace.top",
+                "avatar": "https://cdn.jsdelivr.net/gh/WhitemuTeam/web-img/head.png",
+                "descr": "缘，妙不可言"
+            }
+        ]
+    },
+    {
+        "class_name": "已失联",
+        "class_desc": "╯︿╰",
+        "link_list": [
+            {
+                "name": "Langford‘s blog",
+                "link": "https://sgslpx.com",
+                "avatar": "https://sgslpx.com/img/avatar-a.jpg",
+                "descr": "累了就休息一会"
+            }
+        ]
+    },
+    {
+        "class_name": "网站",
+        "class_desc": "",
+        "link_list": [
+            {
+                "name": "萌邮",
+                "link": "https://mail.moe233.net",
+                "avatar": "https://cdn.moe233.net/images/avatar.png",
+                "descr": "邮件系统"
+            },
+            {
+                "name": "附属站",
+                "link": "https://icedtangerine.xyz",
+                "avatar": "https://cdn.moe233.net/images/avatar.png",
+                "descr": "已备案"
+            }
+        ]
+    }
+]
