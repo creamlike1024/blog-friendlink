@@ -118,10 +118,10 @@
                 "descr": "邮件系统"
             },
             {
-                "name": "附属站",
-                "link": "https://icedtangerine.xyz",
-                "avatar": "https://cdn.moe233.net/images/avatar.png",
-                "descr": "已备案"
+                "name": "岛",
+                "link": "https://m.isle.moe",
+                "avatar": "https://cdn.moe233.net/images/misskey.png",
+                "descr": "一个 Misskey 实例，去中心化社交平台"
             },
             {
                 "name": "主页",
