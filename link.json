@@ -122,6 +122,12 @@
                 "link": "https://icedtangerine.xyz",
                 "avatar": "https://cdn.moe233.net/images/avatar.png",
                 "descr": "已备案"
+            },
+            {
+                "name": "主页",
+                "link": "https://moe233.net",
+                "avatar": "https://cdn.moe233.net/images/akari.png",
+                "descr": "......"
             }
         ]
     }
