@@ -34,12 +34,6 @@
                 "descr": "日常碎碎念"
             },
             {
-                "name": "人民の芸術家的小屋",
-                "link": "https://wzyblog.com.cn",
-                "avatar": "https://wzyblog.com.cn/wp content/uploads/2021/10/wtx.jpg",
-                "descr": "三生有幸遇见你，纵使悲凉也是情"
-            },
-            {
                 "name": "喵二の小博客",
                 "link": "https://www.miaoer.xyz",
                 "avatar": "https://cdn.jsdelivr.net/gh/miaoermua/miaoermua.github.io@latest/logo/weblogo.png",
@@ -116,6 +110,12 @@
                 "link": "https://sgslpx.com",
                 "avatar": "https://sgslpx.com/img/avatar-a.jpg",
                 "descr": "累了就休息一会"
+            },
+            {
+                "name": "人民の芸術家的小屋",
+                "link": "https://wzyblog.com.cn",
+                "avatar": "https://wzyblog.com.cn/wp content/uploads/2021/10/wtx.jpg",
+                "descr": "三生有幸遇见你，纵使悲凉也是情"
             }
         ]
     },
