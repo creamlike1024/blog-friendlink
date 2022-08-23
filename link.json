@@ -154,12 +154,6 @@
         "class_desc": "",
         "link_list": [
             {
-                "name": "萌邮",
-                "link": "https://mail.moe233.net",
-                "avatar": "https://cdn.moe233.net/images/avatar.png",
-                "descr": "邮件系统"
-            },
-            {
                 "name": "岛",
                 "link": "https://m.isle.moe",
                 "avatar": "https://cdn.moe233.net/images/misskey.png",
